@@ -7,7 +7,7 @@ A curated list of awesome resources, tools, and projects related to radio freque
 ## Distributions
 
 - **[DragonOS](https://sourceforge.net/projects/dragonos-focal/)** 🐉: A Linux distribution preconfigured with a suite of tools for SDR and RF analysis.
-
+- **[Skywavelinux](https://skywavelinux.com/downloads.html)** ☁: A Linux distribution preconfigured with a suite of tools for SDR and RF analysis.
 ## Software-defined Radio (SDR)
 
 ### SDR Software
