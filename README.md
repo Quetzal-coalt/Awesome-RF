@@ -208,7 +208,7 @@ A curated list of awesome resources, tools, and projects related to radio freque
 - **[Universal Radio Hacker](https://github.com/jopohl/urh)**
 - **[WFView](https://gitlab.com/eliggett/wfview)**
 - **[WSJT-X](https://github.com/saitohirga/WSJT-X)**
-- **[Yate/YateBTS](https://github.com/vir/yate)
+- **[Yate](https://github.com/vir/yate)**
 - **[YateBTS](https://github.com/Nuand/YateBTS)**
 - **[yellowShoes](https://github.com/evuraan/yellowShoes)**
 - **[DSD-FME](https://github.com/lwvmobile/dsd-fme)**
