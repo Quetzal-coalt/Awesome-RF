@@ -115,108 +115,108 @@ A curated list of awesome resources, tools, and projects related to radio freque
 - **[GR-Soapy](https://github.com/dicta/gr-soapy)** :GR-Soapy is a software library for Gracious (GNU Radio) that provides an API to interact with various third-party hardware components, like SDRuNO or RTL-SDR, using the Soapy Remote Toolkit.
 - **[GR-Tempest](https://github.com/git-artes/gr-tempest)** :GR-Tempest is a software package for Gracious (GNU Radio) that focuses on implementing various communication protocols, such as Aloha, CSMA/CD, or FDMA, used in distributed network systems like LAN or WAN to optimize packet transmission and reception.
 - **[GR-Timing_Utils](https://github.com/sandialabs/gr-timing_utils)** : GR-Timing_Utils is a software package for Gracious (GNU Radio) that provides various utility blocks related to timing operations, such as PLL (Phase Locked Loop), PLL filter, or frequency synthesizers, which are useful in many applications like telecommunications, remote sensing, or scientific research.
-- **[Grgsm_scanner-GUI](https://github.com/Al-gore-ithm/grgsm_scanner-GUI)** :
-- **[GSMEvil2](https://github.com/ninjhacks/gsmevil2)** :
-- **[HackTV GUI](https://github.com/steeviebops/hacktv-gui)** :
-- **[Ham2Mon](https://github.com/madengr/ham2mon)** :
-- **[IMSI-catcher](https://github.com/Oros42/IMSI-catcher)** :
-- **[Inspectrum](https://github.com/miek/inspectrum)** :
-- **[Iridium-Toolkit](https://github.com/muccc/iridium-toolkit)** :
-- **[IridiumLive](https://github.com/microp11/iridiumlive)** :
-- **[JAERO](https://github.com/jontio/JAERO)** :
-- **[Js8call](https://github.com/m0iax/JS8CallUtilities_V2)** :
-- **[JSquelch](https://github.com/jontio/JSquelch)** :
-- **[JTDX](https://github.com/jtdx-project/jtdx)** :
-- **[Kalibrate (HackRF)](https://github.com/scateu/kalibrate-hackrf)** :
-- **[Kismet](https://github.com/kismetwireless/kismet)** :
-- **[Kismet rest api](https://github.com/kismetwireless/python-kismet-rest)** :
-- **[Kisstatic2mobile](https://github.com/ckoval7/kisStatic2Mobile)** :
-- **[Kismon](https://github.com/Kismon/kismon)** :
-- **[Larry Tetra Kit](https://gitlab.com/larryth/tetra-kit)** :
-- **[LeanSDR](https://github.com/pabr/leansdr)** :
-- **[Libacars](https://github.com/szpajder/libacars)** :
-- **[LibBladeRF 2.4.1](https://github.com/Nuand/bladeRF/releases/tag/2021.10)** :
-- **[LibhackRF/hackRF](https://github.com/greatscottgadgets/hackrf)** :
-- **[Libosmo-dsp](https://github.com/osmocom/libosmo-dsp)** :
-- **[LimeSuite](https://github.com/myriadrf/LimeSuite)** :
-- **[Linrad](https://github.com/fventuri/linrad)** :
-- **[LTE-Cell-Scanner](https://github.com/JiaoXianjun/LTE-Cell-Scanner)** :
-- **[LTE_HACKRF](https://github.com/jhonnybonny/LTE_HACKRF)** :
-- **[LuaRadio](https://github.com/vsergeev/luaradio)** :
-- **[M17-Gnuradio](https://github.com/mobilinkd/m17-gnuradio)** :
-- **[Meshtastic Python](https://github.com/ZebusJesus/Meshtastic-PyGUI)** :
-- **[Mirage](https://github.com/RCayre/mirage)** :
-- **[MMDVM](https://github.com/g4klx/MMDVM)** :
-- **[Mmdvm-sdr](https://github.com/r4d10n/mmdvm-sdr)** :
-- **[MMDVMHost](https://github.com/g4klx/MMDVMHost)** :
-- **[Multimon-ng](https://github.com/EliasOenal/multimon-ng)** :
-- **[NOAA-Apt](https://github.com/martinber/noaa-apt)** :
-- **[NRSC5](https://github.com/theori-io/nrsc5)** :
-- **[OP25](https://github.com/osmocom/op25)** :
-- **[OpenWebRX](https://github.com/jketterl/owrx_connector)** :
-- **[Osmo-bsc](https://github.com/osmocom/osmo-bsc)** :
-- **[Osmo-bts-trx](https://github.com/osmocom/osmo-trx)** :
-- **[Osmo-hlr](https://github.com/osmocom/osmo-hlr)** :
-- **[Osmo-MGW](https://github.com/osmocom/osmo-mgw)** :
-- **[Osmo-msc](https://github.com/osmocom/osmo-msc)** :
-- **[Osmo-NITB](https://osmocom.org/projects/osmonitb/wiki/OsmoNITB)** :
-- **[Osmo-nitb-scripts](https://github.com/godfuzz3r/osmo-nitb-scripts)** :
-- **[Osmo-Sip-Connector](https://github.com/osmocom/osmo-sip-connector)** :
-- **[Photonmap](https://github.com/ckoval7/photonmap)** :
-- **[PIGSM](https://github.com/jhonnybonny/PIGSM)** :
-- **[Probequest](https://github.com/SkypLabs/probequest)** :
-- **[Pyadi-iio](https://github.com/analogdevicesinc/pyadi-iio)** :
-- **[PyRtlSDR](https://github.com/pyrtlsdr/pyrtlsdr)** :
-- **[PySDR 2.0(Guide to SDR and DSP using Python)](https://pysdr.org/)** :
-- **[Qfits for use with sattools](https://github.com/cbassa/sattools/blob/main/README.md)** :
-- **[QradioLink](https://github.com/qradiolink/qradiolink)** :
-- **[QspectrumAnalyzer](https://github.com/xmikos/qspectrumanalyzer)** :
-- **[Qsstv](https://github.com/ON4QZ/QSSTV)** :
-- **[Qt-DAB](https://github.com/JvanKatwijk/qt-dab)** :
-- **[RDF-Sim](https://github.com/ckoval7/rdf-sim)** :
-- **[Retrogram-RTLSDR](https://github.com/r4d10n/retrogram-rtlsdr)** :
-- **[Retrogram-soapysdr](https://github.com/r4d10n/retrogram-soapysdr)** :
-- **[gr-reveng](https://github.com/tkuester/gr-reveng)** :
-- **[RFcat](https://github.com/atlas0fd00m/rfcat)** :
-- **[RFCrack](https://github.com/cclabsInc/RFCrack)** :
-- **[RFsoapyfile](https://github.com/roseengineering/rfsoapyfile)** :
-- **[RSP TCP Server (SDRPlay support)](https://github.com/SDRplay/RSPTCPServer)** :
-- **[RTL_433](https://github.com/merbanan/rtl_433)** :
-- **[RTLSDR-Airband v5.0.0](https://github.com/charlie-foxtrot/RTLSDR-Airband)** :
-- **[RX_Tools](https://github.com/rxseger/rx_tools)** :
-- **[SatDump](https://github.com/SatDump/SatDump)** :
-- **[SDR++](https://github.com/AlexandreRouma/SDRPlusPlus)** :
-- **[SDR4space.lite](https://github.com/SDR4space/FreeVersion)** :
-- **[SDRAngel](https://github.com/f4exb/sdrangel)** :
-- **[SDRReceiver](https://github.com/jeroenbeijer/SDRReceiver)** :
-- **[SDRTrunk](https://github.com/DSheirer/sdrtrunk)** :
-- **[ShinySDR](https://github.com/kpreid/shinysdr)** :
-- **[SigDigger](https://github.com/BatchDrake/SigDigger)** :
-- **[Signal Server GUI](https://github.com/thetacom/signalserver_gui)** :
-- **[Signal Server N90ZB w/ Web Interface by Dr. Bill Walker](https://sourceforge.net/projects/dragonos-focal/)** :
-- **[Soapysdr modules](https://github.com/pothosware/SoapyHackRF)** :
-- **[Sparrow-WiFi](https://github.com/ghostop14/sparrow-wifi)** :
-- **[Splat!](https://www.qsl.net/kd2bd/splat.html)** :
-- **[SpyServer](https://github.com/lloydpick/docker-spyserver)** :
-- **[srsLTE-Sniffer](https://github.com/Wooniety/srsLTE-Sniffer)** :
-- **[srsRAN](https://github.com/srsran/srsRAN_4G)** :
-- **[Strf](https://github.com/cbassa/strf)** :
-- **[Tetra-kit](https://github.com/aeburriel/tetrapol-kit)** :
-- **[Tetra-Kit-Player](https://github.com/sonictruth/tetra-kit-player)** :
-- **[Trunk-Recorder](https://github.com/robotastic/trunk-recorder)** :
-- **[Ubertooth](https://github.com/greatscottgadgets/ubertooth)** :
-- **[Umurmur](https://github.com/umurmur/umurmur)** :
-- **[Universal Radio Hacker](https://github.com/jopohl/urh)** :
-- **[WFView](https://gitlab.com/eliggett/wfview)** :
-- **[WSJT-X](https://github.com/saitohirga/WSJT-X)** :
-- **[Yate](https://github.com/vir/yate)** :
-- **[YateBTS](https://github.com/Nuand/YateBTS)** :
-- **[yellowShoes](https://github.com/evuraan/yellowShoes)** :
-- **[DSD-FME](https://github.com/lwvmobile/dsd-fme)** :
-- **[LTESniffer](https://github.com/SysSec-KAIST/LTESniffer)**
-- **[OpenBTS](https://github.com/RangeNetworks/openbts)**
-- **[TempestSDR](https://github.com/martinmarinov/TempestSDR)**
-- **[Ice9-Bluetooth Sniffer](https://github.com/mikeryan/ice9-bluetooth-sniffer)**
+- **[Grgsm_scanner-GUI](https://github.com/Al-gore-ithm/grgsm_scanner-GUI)** :This tool provides a graphical user interface for the gr-gsm scanner, which is used to scan and monitor GSM (Global System for Mobile Communications) frequencies. It helps in identifying active GSM channels and decoding basic information from those channels.
+- **[GSMEvil2](https://github.com/ninjhacks/gsmevil2)** :GSMEvil2 is a tool designed for GSM network security testing. It allows users to set up a fake GSM base station, capture GSM traffic, and analyze vulnerabilities in GSM communications. It can be used for educational purposes and penetration testing of GSM networks.
+- **[HackTV GUI](https://github.com/steeviebops/hacktv-gui)** :HackTV GUI is a graphical front-end for the HackTV software, which is used to generate and transmit analog TV signals. This tool makes it easier to configure and use HackTV for experimenting with TV signal generation and broadcasting.
+- **[Ham2Mon](https://github.com/madengr/ham2mon)** :Ham2Mon is a tool designed for amateur radio enthusiasts to monitor and decode various amateur radio signals. It supports multiple modes and protocols, allowing users to track and analyze ham radio communications.
+- **[IMSI-catcher](https://github.com/Oros42/IMSI-catcher)** :IMSI-catcher is a tool that intercepts and logs IMSI (International Mobile Subscriber Identity) numbers from nearby mobile devices. It is typically used to monitor and analyze mobile device activity within a certain range, often for security research and network testing.
+- **[Inspectrum](https://github.com/miek/inspectrum)** :Inspectrum is a signal analysis tool that provides a visual interface for examining and analyzing radio signals. It is useful for studying the characteristics of different signals, debugging radio transmissions, and reverse engineering communication protocols.
+- **[Iridium-Toolkit](https://github.com/muccc/iridium-toolkit)** :Iridium-Toolkit is a collection of tools for decoding and analyzing signals from the Iridium satellite communication system. It allows users to capture, decode, and interpret data transmitted by Iridium satellites.
+- **[IridiumLive](https://github.com/microp11/iridiumlive)** :IridiumLive is a tool that provides live decoding and visualization of Iridium satellite communications. It can capture signals from Iridium satellites in real-time and display decoded data, making it useful for real-time monitoring and analysis.
+- **[JAERO](https://github.com/jontio/JAERO)** :JAERO is a program that decodes ACARS (Aircraft Communications Addressing and Reporting System) messages sent over the INMARSAT satellite system using AERO (Aircraft Earth Station) channels. It is used for monitoring and analyzing satellite-based aircraft communications.
+- **[Js8call](https://github.com/m0iax/JS8CallUtilities_V2)** :JS8Call is a communication tool that enables amateur radio operators to exchange messages using the JS8 digital mode. It focuses on long-distance, weak-signal communication, providing utilities to facilitate and enhance JS8 operations.
+- **[JSquelch](https://github.com/jontio/JSquelch)** :JSquelch is a software tool for reducing noise in radio signals. It is designed to filter out unwanted noise from received signals, improving the clarity and quality of the communication.
+- **[JTDX](https://github.com/jtdx-project/jtdx)** :JTDX is an amateur radio software application optimized for JT65 and JT9 digital modes. It is used for weak-signal communication, providing features and enhancements for improved decoding and operation in these modes.
+- **[Kalibrate (HackRF)](https://github.com/scateu/kalibrate-hackrf)** :Kalibrate, specifically adapted for HackRF, is a tool for scanning GSM base stations and calibrating SDR (Software-Defined Radio) devices. It helps in identifying GSM frequencies and calibrating the frequency offset of SDR hardware.
+- **[Kismet](https://github.com/kismetwireless/kismet)** :Kismet is a wireless network detector, sniffer, and intrusion detection system. It works with Wi-Fi (802.11) networks to capture and analyze network traffic, identify devices, and detect potential security issues in wireless networks.
+- **[Kismet rest api](https://github.com/kismetwireless/python-kismet-rest)** :The Kismet REST API is a Python client library for interfacing with the Kismet wireless network detection tool's RESTful API. It enables programmatic access to Kismet's data and functionality, allowing users to automate and extend Kismet's capabilities in network monitoring and analysis.
+- **[Kisstatic2mobile](https://github.com/ckoval7/kisStatic2Mobile)** :Kisstatic2mobile is a utility designed to convert static Kismet log files into a format suitable for mobile device applications. This tool makes it easier to visualize and analyze wireless network data collected by Kismet on mobile devices.
+- **[Kismon](https://github.com/Kismon/kismon)** :Kismon is a graphical user interface for Kismet, providing real-time visualization and management of wireless network data. It enhances the user experience by offering an intuitive interface for monitoring Wi-Fi networks and devices detected by Kismet.
+- **[Larry Tetra Kit](https://gitlab.com/larryth/tetra-kit)** :The Larry Tetra Kit is a collection of tools and scripts for decoding and analyzing TETRA (Terrestrial Trunked Radio) communications. It is designed for security researchers and radio enthusiasts interested in exploring TETRA signals.
+- **[LeanSDR](https://github.com/pabr/leansdr)** :LeanSDR is a lightweight and efficient software-defined radio (SDR) framework. It is designed for developing and running SDR applications, offering a simple and flexible architecture for signal processing and radio communications.
+- **[Libacars](https://github.com/szpajder/libacars)** :Libacars is a C library for decoding and encoding ACARS (Aircraft Communications Addressing and Reporting System) messages. It provides developers with tools to build applications that can interpret ACARS data from aircraft communications.
+- **[LibBladeRF 2.4.1](https://github.com/Nuand/bladeRF/releases/tag/2021.10)** :LibBladeRF is the software library for interfacing with the bladeRF, an open-source software-defined radio platform. The library provides APIs and drivers necessary to control and communicate with bladeRF hardware for various SDR applications.
+- **[LibhackRF/hackRF](https://github.com/greatscottgadgets/hackrf)** :LibhackRF is the official software library for the HackRF One, a versatile software-defined radio device. The library includes drivers and utilities for using the HackRF hardware to transmit and receive radio signals across a wide range of frequencies.
+- **[Libosmo-dsp](https://github.com/osmocom/libosmo-dsp)** :Libosmo-dsp is a digital signal processing library developed by the Osmocom project. It provides a range of DSP functions and algorithms commonly used in radio communications, supporting various signal processing tasks in software-defined radio applications.
+- **[LimeSuite](https://github.com/myriadrf/LimeSuite)** :LimeSuite is a collection of software supporting the LimeSDR family of software-defined radios. It includes drivers, APIs, and utilities for configuring and using LimeSDR hardware, as well as tools for calibration, diagnostics, and signal analysis.
+- **[Linrad](https://github.com/fventuri/linrad)** :Linrad is a software-defined radio program that offers advanced features for signal reception and analysis. It supports a wide range of SDR hardware and provides tools for weak-signal detection, noise reduction, and signal processing in amateur radio and other applications.
+- **[LTE-Cell-Scanner](https://github.com/JiaoXianjun/LTE-Cell-Scanner)** :LTE-Cell-Scanner is a tool for scanning and analyzing LTE (Long-Term Evolution) cellular networks. It captures and decodes LTE broadcast signals, providing information about cell towers, frequencies, and network parameters.
+- **[LTE_HACKRF](https://github.com/jhonnybonny/LTE_HACKRF)** :LTE_HACKRF is a collection of scripts and utilities for using the HackRF software-defined radio to scan and analyze LTE signals. It allows users to explore LTE network characteristics and decode broadcast information from LTE cells.
+- **[LuaRadio](https://github.com/vsergeev/luaradio)** :LuaRadio is a lightweight, embeddable flow graph signal processing framework for software-defined radio. Written in Lua, it provides a simple and flexible environment for building and running SDR applications, supporting a wide range of signal processing blocks and modules.
+- **[M17-Gnuradio](https://github.com/mobilinkd/m17-gnuradio)** :M17-Gnuradio is a GNU Radio module for the M17 open digital radio protocol. It provides tools for generating, transmitting, and receiving M17 signals, which are used in digital voice communications for amateur radio.
+- **[Meshtastic Python](https://github.com/ZebusJesus/Meshtastic-PyGUI)** :Meshtastic Python is a graphical user interface for interacting with Meshtastic devices using Python. Meshtastic is a project that provides low-cost, open-source mesh communication devices. This tool simplifies the configuration and management of Meshtastic nodes.
+- **[Mirage](https://github.com/RCayre/mirage)** :Mirage is an advanced security framework for conducting wireless network penetration tests and signal analysis. It supports a variety of wireless protocols and is designed to assist security researchers in identifying and exploiting vulnerabilities in wireless networks.
+- **[MMDVM](https://github.com/g4klx/MMDVM)** :MMDVM (Multi-Mode Digital Voice Modem) is a hardware and software project that enables multi-mode digital voice communication on amateur radio. It supports various digital modes like DMR, D-STAR, System Fusion, and P25, allowing for versatile digital radio operations.
+- **[Mmdvm-sdr](https://github.com/r4d10n/mmdvm-sdr)** :Mmdvm-sdr is an implementation of the MMDVM project specifically designed for software-defined radios. It facilitates the use of SDR hardware to operate in multiple digital voice modes, providing a flexible solution for digital amateur radio communications.
+- **[MMDVMHost](https://github.com/g4klx/MMDVMHost)** :MMDVMHost is the host software for the MMDVM project. It manages digital voice communications across different modes (DMR, D-STAR, System Fusion, etc.) and interfaces with the MMDVM hardware or compatible SDR devices.
+- **[Multimon-ng](https://github.com/EliasOenal/multimon-ng)** :Multimon-ng is a digital radio transmission decoder software. It supports decoding various digital transmission modes such as POCSAG, AX.25, DTMF, and more, making it useful for monitoring and analyzing different types of radio communications.
+- **[NOAA-Apt](https://github.com/martinber/noaa-apt)** :NOAA-Apt is a software tool for decoding Automatic Picture Transmission (APT) signals from NOAA weather satellites. It allows users to receive and process images transmitted by NOAA satellites, providing real-time weather imagery.
+- **[NRSC5](https://github.com/theori-io/nrsc5)** :NRSC5 is an open-source decoder for HD Radio signals, which are used for digital audio broadcasting in the FM radio band. It allows users to decode and listen to HD Radio broadcasts using compatible SDR hardware.
+- **[OP25](https://github.com/osmocom/op25)** :OP25 is a software suite for decoding and analyzing P25 digital radio signals. P25 is a standard for digital mobile communications used by public safety organizations. OP25 supports monitoring and analyzing these communications for research and security purposes.
+- **[OpenWebRX](https://github.com/jketterl/owrx_connector)** :OpenWebRX is a web-based software-defined radio (SDR) receiver. It allows users to access and control SDR hardware remotely via a web browser, providing a user-friendly interface for tuning and listening to radio frequencies.
+- **[Osmo-bsc](https://github.com/osmocom/osmo-bsc)** :Osmo-bsc is a base station controller software from the Osmocom project. It manages the radio resources and controls the base transceiver stations (BTS) in a GSM network, handling tasks like call setup, handover, and resource allocation.
+- **[Osmo-bts-trx](https://github.com/osmocom/osmo-trx)** :Osmo-bts-trx is a base transceiver station (BTS) implementation for Osmocom's GSM stack. It works with software-defined radios to provide GSM network coverage, handling the physical layer and part of the data link layer protocols.
+- **[Osmo-hlr](https://github.com/osmocom/osmo-hlr)** :Osmo-hlr is a home location register (HLR) for Osmocom's mobile network infrastructure. It stores subscriber information and handles tasks like authentication and location updates in a GSM network.
+- **[Osmo-MGW](https://github.com/osmocom/osmo-mgw)** :Osmo-MGW is the media gateway component of the Osmocom GSM stack. It routes voice and data streams between different network elements, facilitating communication within the network and with external networks.
+- **[Osmo-msc](https://github.com/osmocom/osmo-msc)** :Osmo-msc is the mobile switching center software from the Osmocom project. It handles call control, mobility management, and other core network functions for GSM networks, managing the connection between mobile devices and the network.
+- **[Osmo-NITB](https://osmocom.org/projects/osmonitb/wiki/OsmoNITB)** :Osmo-NITB (Network In The Box) is a complete GSM network-in-a-box solution. It combines the functionality of several core network components, such as the mobile switching center, home location register, and base station controller, into a single package, providing a fully operational GSM network.
+- **[Osmo-nitb-scripts](https://github.com/godfuzz3r/osmo-nitb-scripts)** :Osmo-nitb-scripts is a collection of scripts designed to simplify the setup and management of Osmo-NITB (Network In The Box). These scripts help automate tasks such as configuration, deployment, and operational management of a GSM network using Osmo-NITB.
+- **[Osmo-Sip-Connector](https://github.com/osmocom/osmo-sip-connector)** :Osmo-SIP-Connector is a component of the Osmocom project that bridges GSM networks with SIP (Session Initiation Protocol) VoIP (Voice over IP) systems. It allows for seamless integration of GSM voice services with VoIP infrastructure, enabling GSM calls to be routed through SIP networks.
+- **[Photonmap](https://github.com/ckoval7/photonmap)** :Photonmap is a tool designed for mapping and visualizing Wi-Fi signals. It captures Wi-Fi signal strength data and provides a graphical representation of Wi-Fi coverage, helping users identify signal strength variations and optimize network performance.
+- **[PIGSM](https://github.com/jhonnybonny/PIGSM)** :PIGSM (Pi GSM) is a project that leverages Raspberry Pi hardware to create a GSM base station. It enables users to set up and operate a small-scale GSM network using a Raspberry Pi, providing a platform for learning and experimentation with GSM technology.
+- **[Probequest](https://github.com/SkypLabs/probequest)** :Probequest is a tool for capturing and analyzing Wi-Fi probe requests. These are signals sent by devices looking for available Wi-Fi networks. Probequest helps in understanding Wi-Fi network activity, monitoring device behavior, and conducting security assessments.
+- **[Pyadi-iio](https://github.com/analogdevicesinc/pyadi-iio)** :Pyadi-iio is a Python library for interfacing with ADI (Analog Devices Inc.) products that support the Industrial I/O (IIO) framework. It simplifies the use of ADI hardware in Python applications, providing APIs for data acquisition and control of various ADI devices.
+- **[PyRtlSDR](https://github.com/pyrtlsdr/pyrtlsdr)** :PyRtlSDR is a Python wrapper for the librtlsdr, which is a library for interfacing with RTL-SDR (Software Defined Radio) dongles. This tool allows users to easily interact with RTL-SDR devices using Python, facilitating the development of SDR applications and experiments.
+- **[PySDR 2.0(Guide to SDR and DSP using Python)](https://pysdr.org/)** :PySDR 2.0 is an educational resource that provides a comprehensive guide to software-defined radio (SDR) and digital signal processing (DSP) using Python. It includes tutorials, code examples, and explanations aimed at helping users learn and apply SDR and DSP concepts.
+- **[Qfits for use with sattools](https://github.com/cbassa/sattools/blob/main/README.md)** :Qfits is a tool used in conjunction with the Sattools suite for satellite tracking and data analysis. It facilitates the processing and analysis of satellite data, providing utilities for working with satellite telemetry and orbital parameters.
+- **[QradioLink](https://github.com/qradiolink/qradiolink)** :QradioLink is an open-source, cross-platform digital voice communication tool for amateur radio operators. It supports various digital modes and provides features for voice communication, messaging, and network connectivity using SDR hardware.
+- **[QspectrumAnalyzer](https://github.com/xmikos/qspectrumanalyzer)** :QspectrumAnalyzer is a graphical spectrum analyzer tool for RTL-SDR and other SDR devices. It provides a visual representation of the radio frequency spectrum, allowing users to analyze signal strength and frequency components in real-time.
+- **[Qsstv](https://github.com/ON4QZ/QSSTV)** :Qsstv is software for receiving and decoding Slow Scan Television (SSTV) transmissions. SSTV is a method of transmitting static images over amateur radio. Qsstv allows users to receive, decode, and display SSTV images.
+- **[Qt-DAB](https://github.com/JvanKatwijk/qt-dab)** :Qt-DAB is a software application for receiving and decoding Digital Audio Broadcasting (DAB) and DAB+ signals. It provides a user-friendly interface for listening to digital radio broadcasts using compatible SDR hardware.
+- **[RDF-Sim](https://github.com/ckoval7/rdf-sim)** :RDF-Sim (Radio Direction Finding Simulator) is a tool for simulating radio direction finding scenarios. It helps users practice and understand RDF techniques by providing a virtual environment for locating the direction of radio signals.
+- **[Retrogram-RTLSDR](https://github.com/r4d10n/retrogram-rtlsdr)** :Retrogram-RTLSDR is a software package for analyzing retro game console signals using RTL-SDR hardware. It allows users to capture and decode signals from classic gaming consoles, facilitating research and experimentation with retro gaming technology.
+- **[Retrogram-soapysdr](https://github.com/r4d10n/retrogram-soapysdr)** :Retrogram-soapysdr is similar to Retrogram-RTLSDR but is designed to work with the SoapySDR framework, which supports a wide range of SDR hardware. It enables the analysis and decoding of signals from retro gaming consoles using SoapySDR-compatible devices.
+- **[gr-reveng](https://github.com/tkuester/gr-reveng)** :gr-reveng is a GNU Radio module designed for reverse engineering unknown radio signals. It provides tools for capturing, analyzing, and decoding signals, making it easier to understand and manipulate radio communication protocols.
+- **[RFcat](https://github.com/atlas0fd00m/rfcat)** :RFcat is a Python library and set of tools for interacting with various RF transceivers, particularly the Yard Stick One and other similar devices. It allows users to easily transmit and receive radio signals for analysis, experimentation, and security research.
+- **[RFCrack](https://github.com/cclabsInc/RFCrack)** :RFCrack is a toolset for testing and analyzing RF (radio frequency) communications, primarily focusing on security vulnerabilities in wireless systems. It automates the process of capturing, analyzing, and replaying RF signals to identify potential security issues
+- **[RFsoapyfile](https://github.com/roseengineering/rfsoapyfile)** :RFsoapyfile is a tool for recording and playing back radio signals using SoapySDR-compatible devices. It allows users to capture radio signals to a file and later replay them for analysis or testing purposes.
+- **[RSP TCP Server (SDRPlay support)](https://github.com/SDRplay/RSPTCPServer)** :RSP TCP Server is a network server for SDRPlay RSP devices, enabling remote access and control of SDRPlay hardware over a TCP/IP network. It allows users to stream radio signals from an RSP device to clients connected over the network.
+- **[RTL_433](https://github.com/merbanan/rtl_433)** :RTL_433 is a versatile software tool for decoding data from a wide variety of devices using RTL-SDR dongles. It supports numerous protocols, allowing users to decode signals from sensors, weather stations, and other RF devices transmitting in the 433 MHz band.
+- **[RTLSDR-Airband v5.0.0](https://github.com/charlie-foxtrot/RTLSDR-Airband)** :RTLSDR-Airband is an application for receiving and demodulating airband radio signals using RTL-SDR hardware. It is primarily used for monitoring aircraft communications, including ATC (Air Traffic Control) and other aviation-related transmissions.
+- **[RX_Tools](https://github.com/rxseger/rx_tools)** :RX_Tools is a collection of command-line utilities for use with RTL-SDR and other SDR hardware. It includes tools for signal capture, processing, and analysis, supporting various SDR tasks such as recording and replaying signals.
+- **[SatDump](https://github.com/SatDump/SatDump)** :SatDump is a tool for decoding and analyzing signals from weather satellites and other satellite-based communication systems. It supports various satellite protocols and provides utilities for capturing and processing satellite data.
+- **[SDR++](https://github.com/AlexandreRouma/SDRPlusPlus)** :SDR++ is a cross-platform, open-source SDR software with a user-friendly interface. It supports a wide range of SDR hardware and provides features for signal reception, demodulation, and analysis, catering to both beginners and advanced users.
+- **[SDR4space.lite](https://github.com/SDR4space/FreeVersion)** :SDR4space.lite is a software-defined radio application focused on space communications. It provides tools for receiving and analyzing signals from satellites and other space-based sources, supporting various protocols used in space communication.
+- **[SDRAngel](https://github.com/f4exb/sdrangel)** :SDRAngel is a comprehensive SDR software suite that supports a wide range of SDR hardware. It offers features for signal demodulation, modulation, and analysis, as well as plugins for various digital modes and protocols, making it suitable for diverse SDR applications.
+- **[SDRReceiver](https://github.com/jeroenbeijer/SDRReceiver)** :SDRReceiver is an SDR software application designed for receiving and processing radio signals. It provides a graphical user interface for tuning, demodulating, and analyzing signals captured by compatible SDR hardware.
+- **[SDRTrunk](https://github.com/DSheirer/sdrtrunk)** :SDRTrunk is a Java-based application for trunked radio signal decoding and analysis. It supports monitoring and decoding various trunked radio systems, including P25, DMR, and LTR, making it a valuable tool for public safety communications monitoring.
+- **[ShinySDR](https://github.com/kpreid/shinysdr)** :ShinySDR is a flexible and extensible SDR software with a web-based user interface. It supports a wide range of SDR hardware and provides tools for signal reception, demodulation, and analysis, all accessible through a web browser.
+- **[SigDigger](https://github.com/BatchDrake/SigDigger)** :SigDigger is a graphical signal analyzer and demodulator based on the GNU Radio framework. It provides tools for capturing, processing, and analyzing radio signals, offering a user-friendly interface for various SDR tasks.
+- **[Signal Server GUI](https://github.com/thetacom/signalserver_gui)** :Signal Server GUI is a graphical user interface for managing signal servers. It facilitates the setup and operation of signal servers used for capturing and processing radio signals, providing an intuitive interface for server configuration and monitoring.
+- **[Signal Server N90ZB w/ Web Interface by Dr. Bill Walker](https://sourceforge.net/projects/dragonos-focal/)** :Signal Server N90ZB is a signal server implementation with a web interface developed by Dr. Bill Walker. It supports the capture and analysis of radio signals, offering a web-based interface for managing and interacting with the server, making it accessible and easy to use.
+- **[Soapysdr modules](https://github.com/pothosware/SoapyHackRF)** :SoapySDR modules are plugins for the SoapySDR library, which provides a standardized API for various SDR hardware. The SoapyHackRF module, for example, enables support for HackRF devices within the SoapySDR framework, facilitating integration and interoperability across different SDR platforms.
+- **[Sparrow-WiFi](https://github.com/ghostop14/sparrow-wifi)** :Sparrow-WiFi is a graphical Wi-Fi analyzer for Linux systems. It provides tools for scanning, monitoring, and analyzing Wi-Fi networks, displaying detailed information about nearby access points, signal strength, channel usage, and more, making it useful for network troubleshooting and optimization.
+- **[Splat!](https://www.qsl.net/kd2bd/splat.html)** :Splat! (Signal Propagation, Loss, And Terrain analysis tool) is an open-source program for analyzing the propagation of radio signals over terrain. It models how signals travel, accounting for factors such as terrain obstructions and atmospheric conditions, useful for planning and optimizing radio communications.
+- **[SpyServer](https://github.com/lloydpick/docker-spyserver)** :SpyServer is a software-defined radio server application that allows remote access to SDR hardware. This Dockerized version facilitates easy deployment and management, enabling users to stream and process SDR data over a network from a remote location.
+- **[srsLTE-Sniffer](https://github.com/Wooniety/srsLTE-Sniffer)** :srsLTE-Sniffer is a tool for capturing and analyzing LTE (Long Term Evolution) signals. It leverages the srsLTE library to monitor and decode LTE radio communications, useful for research, security analysis, and network monitoring.
+- **[srsRAN](https://github.com/srsran/srsRAN_4G)** :srsRAN (formerly srsLTE) is an open-source LTE software radio suite. It provides implementations of key components of LTE networks, including eNodeB, UE, and EPC, allowing users to build and experiment with their own LTE networks for research and development purposes.
+- **[Strf](https://github.com/cbassa/strf)** :Strf (Satellite Telemetry RF) is a software tool for decoding and analyzing telemetry data from satellites. It supports a variety of satellite communication protocols, providing utilities for signal reception, decoding, and data visualization.
+- **[Tetra-kit](https://github.com/aeburriel/tetrapol-kit)** :Tetra-kit is a collection of tools for working with TETRAPOL, a digital trunked radio system used by public safety organizations. It includes utilities for capturing, decoding, and analyzing TETRAPOL signals, facilitating research and security assessments.
+- **[Tetra-Kit-Player](https://github.com/sonictruth/tetra-kit-player)** :Tetra-Kit-Player is a tool for replaying TETRAPOL radio signals. It allows users to capture TETRAPOL transmissions and then replay them for analysis, testing, and research purposes, providing a valuable resource for studying TETRAPOL communication.
+- **[Trunk-Recorder](https://github.com/robotastic/trunk-recorder)** :Trunk-Recorder is a software application for recording trunked radio communications. It captures and decodes trunked radio traffic, such as those used by public safety and utility services, storing the audio and metadata for later review and analysis.
+- **[Ubertooth](https://github.com/greatscottgadgets/ubertooth)** :Ubertooth is an open-source platform for Bluetooth experimentation. It provides hardware and software tools for sniffing and analyzing Bluetooth communications, allowing users to study Bluetooth protocols and develop custom Bluetooth applications.
+- **[Umurmur](https://github.com/umurmur/umurmur)** :Umurmur is a minimalistic Mumble server. Mumble is an open-source, low-latency, high-quality voice chat application. Umurmur provides a lightweight server implementation, enabling users to set up and run Mumble servers for voice communication.
+- **[Universal Radio Hacker](https://github.com/jopohl/urh)** :Universal Radio Hacker (URH) is a comprehensive software tool for investigating unknown wireless protocols. It provides features for capturing, analyzing, and decoding radio signals, facilitating security research and protocol reverse engineering.
+- **[WFView](https://gitlab.com/eliggett/wfview)** :WFView is an open-source software application for controlling and viewing the spectrum of Icom radios. It provides a graphical interface for remote operation and signal visualization, enhancing the usability and functionality of Icom radio equipment.
+- **[WSJT-X](https://github.com/saitohirga/WSJT-X)** :WSJT-X is a software suite for weak-signal radio communications. It includes various digital modes optimized for low-power and weak-signal scenarios, such as FT8 and JT65, widely used by amateur radio operators for making long-distance contacts.
+- **[Yate](https://github.com/vir/yate)** :Yate (Yet Another Telephony Engine) is a flexible and powerful telephony engine for building voice, video, and data systems. It supports various telephony protocols and can be used to develop custom telecommunication applications and services.
+- **[YateBTS](https://github.com/Nuand/YateBTS)** :YateBTS is an open-source implementation of a GSM base station. It allows users to set up and run their own GSM networks using software-defined radio hardware, making it a valuable tool for research, development, and educational purposes.
+- **[yellowShoes](https://github.com/evuraan/yellowShoes)** :yellowShoes is a tool for tracking Wi-Fi devices by analyzing probe requests. It captures and analyzes Wi-Fi probe requests sent by devices searching for networks, providing insights into device behavior and movement.
+- **[DSD-FME](https://github.com/lwvmobile/dsd-fme)** :DSD-FME (Digital Speech Decoder for Frequency Modulation Equipment) is a tool for decoding digital voice formats. It supports various digital voice protocols, such as DMR and P25, enabling the decoding and analysis of digital radio communications.
+- **[LTESniffer](https://github.com/SysSec-KAIST/LTESniffer)** :LTESniffer is a tool for monitoring and analyzing LTE communications. Developed by KAIST, it allows users to capture and decode LTE signals, providing capabilities for network monitoring, security research, and protocol analysis.
+- **[OpenBTS](https://github.com/RangeNetworks/openbts)** :OpenBTS is an open-source software implementation of a GSM base station. It allows users to set up their own GSM networks using standard computer hardware and software-defined radio, facilitating research and experimentation with GSM technology.
+- **[TempestSDR](https://github.com/martinmarinov/TempestSDR)** :TempestSDR is a software application that exploits electromagnetic emissions from electronic devices to recreate video signals. It demonstrates the concept of TEMPEST (Transient Electromagnetic Pulse Emanation Standard) and can be used for security research and educational purposes.
+- **[Ice9-Bluetooth Sniffer](https://github.com/mikeryan/ice9-bluetooth-sniffer)** :Ice9-Bluetooth Sniffer is an open-source tool designed for capturing and analyzing Bluetooth traffic. It provides capabilities for monitoring Bluetooth communications, making it useful for security research, protocol analysis, and development of Bluetooth applications. The tool supports various Bluetooth protocols and can be used to understand and debug Bluetooth interactions.
 
 
-Feel free to fork and contribute to this list by submitting a pull request or by opening an issue. Happy hacking!
+Feel free to contribute to this list by submitting a pull request or by opening an issue. Happy hacking!
