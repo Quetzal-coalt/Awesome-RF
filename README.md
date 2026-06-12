@@ -14,17 +14,17 @@ A curated list of awesome resources, tools, and projects related to radio freque
 
 - **[GNU Radio](https://www.gnuradio.org/)** 📡: An open-source development environment for building software radios.
 - **[SDR# (SDRSharp)](https://airspy.com/download/)** 🎛️: A popular software for receiving and processing radio signals, compatible with a wide range of SDR receivers.
-- **[CubicSDR](https://cubicsdr.com/)** 🔲: A cross-platform SDR software that allows you to scan and demodulate various types of radio signals.
+- **[CubicSDR](https://cubicsdr.com/)** 🔲: A cross-platform SDR software for scanning and demodulating various radio signals.
 
 ### Spectrum Analysis
 
-- **[GQRX](http://gqrx.dk/)** 📈: An SDR receiver software for Linux and macOS, based on GNU Radio and Qt, used for receiving and visualizing RF signals.
+- **[GQRX](http://gqrx.dk/)** 📈: An SDR receiver for Linux and macOS, based on GNU Radio and Qt, used for receiving and visualizing RF signals.
 - **[Inspectrum](https://github.com/miek/inspectrum)** 📊: A tool for visualizing and analyzing captured IQ (in-phase and quadrature) signals.
 
 ### Libraries and Frameworks
 
 - **[Pothos](https://github.com/pothosware/Pothos)** 🧩: An open-source framework for creating, managing, and deploying signal processing algorithms.
-- **[SoapySDR](https://github.com/pothosware/SoapySDR)** 🧼: A vendor-neutral and platform-independent SDR support library.
+- **[SoapySDR](https://github.com/pothosware/SoapySDR)** 🧼: A vendor-neutral SDR support library.
 
 ## SDR Hardware
 
@@ -40,15 +40,15 @@ A curated list of awesome resources, tools, and projects related to radio freque
 ## RF Hacking and Security Tools
 
 - **[Dronesploit](https://github.com/dhondta/dronesploit)** 🛸: A framework for assessing the security of drone communication systems.
-- **[Airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon)** 🌬️: A multi-use bash script for Linux systems to audit wireless networks.
-- **[Drone-Hacking-Tool](https://github.com/HKSSY/Drone-Hacking-Tool)** 🤖: A collection of scripts and tools for hacking and securing drones.
-- **[Mayhem Firmware](https://github.com/portapack-mayhem/mayhem-firmware)** ⚙️: Custom firmware for the HackRF One with Portapack that adds many useful features.
-- **[gr-gsm](https://github.com/bkerler/gr-gsm)** 📞: An SDR-based GSM air interface analysis and penetration testing tool.
+- **[Airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon)** 🌬️: A bash script for auditing wireless networks.
+- **[Drone-Hacking-Tool](https://github.com/HKSSY/Drone-Hacking-Tool)** 🤖: A collection of scripts and tools for drone-related RF research.
+- **[Mayhem Firmware](https://github.com/portapack-mayhem/mayhem-firmware)** ⚙️: Custom firmware for the HackRF One with Portapack.
+- **[gr-gsm](https://github.com/bkerler/gr-gsm)** 📞: An SDR-based GSM air interface analysis tool.
 - **[Proxmark3](https://github.com/RfidResearchGroup/proxmark3)** 🆔: A tool for RFID research, including reading, writing, and emulating tags.
-- **[SatIntel](https://github.com/ANG13T/SatIntel)** 🛰️: A tool for tracking and intercepting satellite communication signals.
+- **[SatIntel](https://github.com/ANG13T/SatIntel)** 🛰️: A tool for tracking and analyzing satellite communication signals.
 - **[RasComm-RaspberryPi-MorseCode-Translator](https://github.com/Defcon27/RasComm-RaspberryPi-MorseCode-Translator)** 📟: A Morse code translator using a Raspberry Pi.
 - **[Skylift](https://github.com/adamhrv/skylift)** 🪂: A tool for intercepting and analyzing satellite signals.
-- **[FISSURE](https://github.com/ainfosec/FISSURE)** 🧨: An open-source framework for SDR-based signal exploitation.
+- **[FISSURE](https://github.com/ainfosec/FISSURE)** 🧨: An open-source framework for SDR-based signal analysis.
 - **[esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther)** 📶: A deauthentication tool for testing Wi-Fi networks using an ESP8266.
 - **[IMSI-catcher](https://github.com/Oros42/IMSI-catcher)** 📡: A tool for capturing IMSI numbers from mobile phones.
 
@@ -60,7 +60,7 @@ A curated list of awesome resources, tools, and projects related to radio freque
 ## Forums and Communities
 
 - **[RTL-SDR.com](https://www.rtl-sdr.com/forum/)** 💬: A forum and blog dedicated to RTL-SDR and other SDR receivers.
-- **[Reddit - r/RTLSDR](https://www.reddit.com/r/RTLSDR/)** 👥: An active Reddit community discussing all things related to RTL-SDR.
+- **[Reddit - r/RTLSDR](https://www.reddit.com/r/RTLSDR/)** 👥: An active Reddit community discussing RTL-SDR and related topics.
 
 ## Aviation and Aircraft Decoding
 
