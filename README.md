@@ -1,5 +1,3 @@
-
-
 # Awesome RF [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A curated list of awesome resources, tools, and projects related to radio frequencies (RF), software-defined radio (SDR), and related fields.
@@ -8,7 +6,8 @@ A curated list of awesome resources, tools, and projects related to radio freque
 
 - **[DragonOS](https://sourceforge.net/projects/dragonos-focal/)** 🐉: A Linux distribution preconfigured with a suite of tools for SDR and RF analysis.
 - **[Skywavelinux](https://skywavelinux.com/downloads.html)** ☁: A Linux distribution preconfigured with a suite of tools for SDR and RF analysis.
-- **[Sigintos](https://www.sigintos.com/download/)**
+- **[Sigintos](https://www.sigintos.com/download/)**: A Linux distribution focused on SDR and RF-related workflows.
+
 ## Software-defined Radio (SDR)
 
 ### SDR Software
@@ -19,7 +18,7 @@ A curated list of awesome resources, tools, and projects related to radio freque
 
 ### Spectrum Analysis
 
-- **[GQRX](http://gqrx.dk/)** 📈: An SDR receiver software for Linux and macOS, based on GNU Radio and QT, used for receiving and visualizing RF signals.
+- **[GQRX](http://gqrx.dk/)** 📈: An SDR receiver software for Linux and macOS, based on GNU Radio and Qt, used for receiving and visualizing RF signals.
 - **[Inspectrum](https://github.com/miek/inspectrum)** 📊: A tool for visualizing and analyzing captured IQ (in-phase and quadrature) signals.
 
 ### Libraries and Frameworks
@@ -31,7 +30,7 @@ A curated list of awesome resources, tools, and projects related to radio freque
 
 - **[HackRF One](https://greatscottgadgets.com/hackrf/)** 🛠️: A wideband SDR peripheral capable of receiving and transmitting radio signals from 1 MHz to 6 GHz.
 - **[RTL-SDR](https://www.rtl-sdr.com/)** 🔌: A low-cost USB SDR receiver based on DVB-T TV tuners with RTL2832U chips.
-- **[BladeRF](https://www.nuand.com/bladerf/)** 🔪: A flexible and powerful SDR platform for advanced applications.
+- **[bladeRF](https://www.nuand.com/bladerf/)** 🔪: A flexible and powerful SDR platform for advanced applications.
 
 ## RF and Network Analysis Tools
 
@@ -50,7 +49,7 @@ A curated list of awesome resources, tools, and projects related to radio freque
 - **[RasComm-RaspberryPi-MorseCode-Translator](https://github.com/Defcon27/RasComm-RaspberryPi-MorseCode-Translator)** 📟: A Morse code translator using a Raspberry Pi.
 - **[Skylift](https://github.com/adamhrv/skylift)** 🪂: A tool for intercepting and analyzing satellite signals.
 - **[FISSURE](https://github.com/ainfosec/FISSURE)** 🧨: An open-source framework for SDR-based signal exploitation.
-- **[esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther)** 📶: A deauthentication tool for testing WiFi networks using an ESP8266.
+- **[esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther)** 📶: A deauthentication tool for testing Wi-Fi networks using an ESP8266.
 - **[IMSI-catcher](https://github.com/Oros42/IMSI-catcher)** 📡: A tool for capturing IMSI numbers from mobile phones.
 
 ## Databases and Online Resources
@@ -78,7 +77,7 @@ A curated list of awesome resources, tools, and projects related to radio freque
 - **[gr-adsb](https://github.com/mhostetter/gr-adsb)** 🧠: A GNU Radio module for decoding ADS-B transmissions.
 - **[gr-air-modes](https://github.com/bistromath/gr-air-modes)** 🛫: A GNU Radio receiver for Mode S and ADS-B aircraft signals.
 - **[bladeRF-adsb](https://github.com/Nuand/bladeRF-adsb)** 🔪: ADS-B decoding examples for bladeRF devices.
-- **[rtl_airband](https://github.com/charlie-foxtrot/RTLSDR-Airband)** 🎙️: A multichannel VHF airband receiver for RTL-SDR.
+- **[RTLSDR-Airband](https://github.com/charlie-foxtrot/RTLSDR-Airband)** 🎙️: A multichannel VHF airband receiver for RTL-SDR.
 
 ## Satellite and Space
 
