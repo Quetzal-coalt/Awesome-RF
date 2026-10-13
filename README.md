@@ -36,6 +36,7 @@ A curated list of awesome resources, tools, and projects related to radio freque
 
 - **[Kismet](https://kismetwireless.net/)** 🕵️‍♂️: A wireless network sniffer and intrusion detection system.
 - **[Aircrack-ng](https://www.aircrack-ng.org/)** 💻: A suite of tools for auditing wireless networks.
+- **[RF Sentinel](https://github.com/CIS-C0/RFSentinel)** 🛡️: A free, open-source Android app that passively detects police and surveillance equipment (body cameras, plate-reader cameras, trackers, drones, fake cell towers) from Bluetooth LE and WiFi signals.
 
 ## RF Hacking and Security Tools
 
